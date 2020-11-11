@@ -7,11 +7,16 @@
 //
 
 import UIKit
+import RonfernPod
 
 class ViewController: UIViewController {
 
+    var testrrrrr = Ronfern()
+    
     override func viewDidLoad() {
         super.viewDidLoad()
+        print(testrrrrr.add(a: 1, b: 2)) 
+        
         // Do any additional setup after loading the view, typically from a nib.
     }
 
