@@ -1,0 +1,16 @@
+PODS:
+  - RonfernPod (0.1.0)
+
+DEPENDENCIES:
+  - RonfernPod (from `../`)
+
+EXTERNAL SOURCES:
+  RonfernPod:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  RonfernPod: 8ed01473a4ba0d8f3b66bb06cb1e0f368a1394e7
+
+PODFILE CHECKSUM: 4beab1fc91432c591ec59a2c75aa0ae67424c151
+
+COCOAPODS: 1.9.3

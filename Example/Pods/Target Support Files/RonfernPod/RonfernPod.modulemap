@@ -1,0 +1,6 @@
+framework module RonfernPod {
+  umbrella header "RonfernPod-umbrella.h"
+
+  export *
+  module * { export * }
+}
